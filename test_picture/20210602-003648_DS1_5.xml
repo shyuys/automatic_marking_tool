@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>20210602-003648_DS1_5.jpeg</filename>
+	<path>test_picture\20210602-003648_DS1_5.jpeg</path>
+	<object>
+		<name>Dry_garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>810</xmin>
+			<ymin>436</ymin>
+			<xmax>1306</xmax>
+			<ymax>1050</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dry_garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>432</ymin>
+			<xmax>728</xmax>
+			<ymax>1018</ymax>
+		</bndbox>
+	</object>
+</annotation>

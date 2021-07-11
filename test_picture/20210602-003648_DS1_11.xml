@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>20210602-003648_DS1_11.jpeg</filename>
+	<path>test_picture\20210602-003648_DS1_11.jpeg</path>
+	<object>
+		<name>Dry_garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>791</xmin>
+			<ymin>445</ymin>
+			<xmax>1284</xmax>
+			<ymax>1079</ymax>
+		</bndbox>
+	</object>
+</annotation>

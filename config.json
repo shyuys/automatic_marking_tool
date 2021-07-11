@@ -1,0 +1,8 @@
+{
+    "version": "2021.07.11",
+    "folderDir": "test_picture",
+    "endswithList": [".jpeg"],
+    "labelDir": "model/tf2/data/classes/ashcan.names",
+    "weightsDir":"model/tf2/yolov3.h5",
+    "show_handle":1
+}
